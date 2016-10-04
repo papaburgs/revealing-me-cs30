@@ -39,3 +39,23 @@ the beginning
      - how awsome that is
   - good resourses
   
+open source tech:
+- git
+- vim
+- docker/kubernetes
+- linux
+- mongo
+- rethinkdb
+- go
+- javascript
+- python
+- nodejs
+- angular
+- react
+- flask
+- influx
+- splunk
+- gimp
+- inkscape
+- stackoverflow
+
