@@ -4,6 +4,6 @@
 
 [github page](https://github.com/hakimel/reveal.js)
 
-original docs in the README.reveal.js.md file
+original docs in the README.reveal.js.md file - follow instructions there for installation
 
 Presentation for a CS 20/30 class on my life as a coder
